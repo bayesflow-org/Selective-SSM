@@ -1,3 +1,8 @@
+# Custom ignores
+mamba_results/
+transformer_results/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
